@@ -1,0 +1,15 @@
+# Node.js modules
+node_modules/
+
+# Environment variables
+.env
+
+# Python bytecode
+__pycache__/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
